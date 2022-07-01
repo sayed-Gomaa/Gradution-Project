@@ -1,0 +1,9 @@
+train: /content/gdrive/MyDrive/Colab Notebooks/computer Vision/yolo/images/train/
+val:   /content/gdrive/MyDrive/Colab Notebooks/computer Vision/yolo/images/val/
+test: /content/gdrive/MyDrive/Colab Notebooks/computer Vision/yolo/images/test/
+
+# number of classes
+nc: 6
+
+# class names
+names: ['5Egp', '10Egp', '20Egp','50Egp','100Egp','200Egp']
